@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\bin\Debug\net7.0\ryad_chetnyh_chisel.exe
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\bin\Debug\net7.0\ryad_chetnyh_chisel.deps.json
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\bin\Debug\net7.0\ryad_chetnyh_chisel.runtimeconfig.json
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\bin\Debug\net7.0\ryad_chetnyh_chisel.dll
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\bin\Debug\net7.0\ryad_chetnyh_chisel.pdb
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.AssemblyInfo.cs
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.dll
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\refint\ryad_chetnyh_chisel.dll
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.pdb
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ryad_chetnyh_chisel.genruntimeconfig.cache
+C:\Users\alex\geekbrains\c_sharp_2\ryad_chetnyh_chisel\obj\Debug\net7.0\ref\ryad_chetnyh_chisel.dll
